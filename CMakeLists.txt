@@ -3,4 +3,4 @@ project(Paper)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Paper Source/Main.cpp)
+add_executable(Paper Source/main.cpp)
